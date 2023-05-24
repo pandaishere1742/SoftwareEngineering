@@ -16,7 +16,7 @@ class Selectionstatement{
         System.out.println("11.ATM MACHINE");
         System.out.println("12.ELECTRICITY BILL");
         System.out.println("13.SEASON PROGRAM");
-        System.out.println("14.EXIT");
+        System.out.println("14.out");
 
         Scanner scan=new Scanner(System.in);
         int option=scan.nextInt();
